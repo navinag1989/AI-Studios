@@ -47,7 +47,7 @@ entries:
       - Model Alignment(DPO, KTO, ORPO, GRPO)
       - Supervised Finetuning
       - AI
-    git_url: "https://github.com/cloudera/CAI_AMP_Synthetic_Data_Studio/tree/main"
+    git_url: "https://github.com/cloudera/CAI_AMP_Synthetic_Data_Studio"
     git_ref: "main"
     is_prototype: true
     is_new: true
