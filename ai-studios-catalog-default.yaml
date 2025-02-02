@@ -44,7 +44,8 @@ entries:
     tags:
       - LLM
       - Synthetic datasets
-      - Model Alignment(DPO, KTO, ORPO, GRPO)
+      - Model Alignment
+      - Reinforcement Learning
       - Supervised Finetuning
       - AI
     git_url: "https://github.com/cloudera/CAI_AMP_Synthetic_Data_Studio"
