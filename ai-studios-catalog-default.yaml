@@ -81,7 +81,7 @@ entries:
       - Adapters
       - GenAI
     git_url: "https://github.com/cloudera/CML_AMP_LLM_Fine_Tuning_Studio"
-    git_ref: "top_nav_comp"
+    git_ref: "main"
     is_prototype: true
     is_new: true
 
