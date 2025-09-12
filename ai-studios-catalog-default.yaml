@@ -103,7 +103,7 @@ entries:
       - Agents
       - Agentic Workflows
       - GenAI
-    git_url: "https://github.com/cloudera/CAI_STUDIO_AGENT"
+    git_url: "https://github.com/navinag1989/AGENT_STUDIO_TEST"
     git_ref: "main"
     is_prototype: true
     is_new: true
