@@ -103,7 +103,7 @@ entries:
       - Agents
       - Agentic Workflows
       - GenAI
-    git_url: "git@github.infra.cloudera.com:Sense/agent-studio-runtime-config.git"
+    git_url: "https://github.com/cloudera/Agent-Studio-Runtime-Config"
     git_ref: "main"
     is_prototype: true
     is_new: true
