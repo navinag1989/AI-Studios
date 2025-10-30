@@ -103,7 +103,7 @@ entries:
       - Agents
       - Agentic Workflows
       - GenAI
-    git_url: "https://github.com/cloudera/Agent-Studio-Runtime-Config"
-    git_ref: "main"
+    git_url: "https://github.com/cloudera/CAI_STUDIO_AGENT"
+    git_ref: "test_migration"
     is_prototype: true
     is_new: true
